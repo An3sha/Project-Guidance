@@ -1,6 +1,6 @@
 <a href="https://github.com/Kushal997-das/Project-Guidance/"><img align='center' height="30" src="https://img.shields.io/badge/Project Guidance-💡-orange.svg?&style=for-the-badge&logo=KD&logoColor=blue" /></a> <br> <br>
 
-### The Ultimate resources for beginner to advance level projects all place 😃 + 💻 + 🧠 = 🏆
+### The Ultimate resources for beginner to advance level projects all at one place 😃 + 💻 + 🧠 = 🏆
 
 <img align="center" alt="GIF"  width="950px" height='900px' src="https://github.com/SamarpanCoder2002/Project-Guidance/blob/main/Documents/document_pic.jpg?raw=true" />
 
@@ -25,8 +25,8 @@
 📌 Introduction
 ------------------
 **Project-Guidance** Contains amazing projects written in multiple programming languages. Here you can easily find beginner to advance level projects.
-The main reason behind to create this repository so that people can find their projects all at one place with the source code. Most of the programmer (beginner 🔰) they are 
-unable to find the project so we took the initiative to help them . Consider this repository as your personal space to find or add any new project to this repository .
+The main reason behind this repository is to help people to find their projects all at one place with the source code. Most of the programmers (especially beginners 🔰) are 
+unable to find the projects so we took the initiative to help them . Consider this repository as your personal space to find or add any new project to this repository .
 Being an open source contributor doesn't just mean writing code, either. You can help out by writing documentation, tests, or even giving suggestions. 🌟🏆
 
 
